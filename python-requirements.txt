@@ -1,0 +1,4 @@
+Django==1.11.1
+pytz==2018.7
+channels==2.1.6
+channels_redis
